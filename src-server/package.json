@@ -1,0 +1,11 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "File Manipulation Server",
+  "main": "node-server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emerson Dias",
+  "license": "MIT"
+}
